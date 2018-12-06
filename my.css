@@ -1,0 +1,33 @@
+#wrap
+{
+    min-width:500px;
+    width:800px;
+    margin:auto;
+    overflow:hidden;
+}
+#content
+{
+    background-color: pink;
+    float: left;
+    width:722px;
+   
+}
+aside
+{
+    background-color: cyan;
+    float:left;
+    
+    
+}
+#content,aside{
+    height:120px;
+}
+
+aside ul{
+    list-style: none;
+    padding-left: 0;
+}
+#wrap
+{
+background-color: green;    
+}
